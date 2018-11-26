@@ -1,3 +1,12 @@
+## Neighborhood Map Project
+Welcome to my Neighborhood Map project submission for Udacity's FEND program.
+
+Below you will find details on how to run the project and a bit about the create-react-app in case you were unfamiliar with it.
+
+## Important Note!
+I do not have a paid account for Google Maps, thus you will find that the map remains in a greyed out developer mode when run. Please observe the pretty styling added to the map itself in the split second before google cuts off access due to my giving them none of the dolla dolla bills.
+
+## Program Details:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
